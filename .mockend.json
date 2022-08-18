@@ -1,113 +1,67 @@
 {
-    "doctors": [
-        {
-            "id": 1,
-            "firstName": "Sadeq",
-            "lastName": "Salam",
-            "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
-            "bio": "ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-            "rate": "4.1",
-            "phoneNumber": "+9647712345678",
-            "country": "IQ",
-            "specialty": "Family Medicine"
+    "Doctor": {
+        "avatar": {
+            "string": [
+                "https://www.freeiconspng.com/uploads/land-rover-range-rover-car-png-25.png",
+                "https://www.freeiconspng.com/uploads/black-cool-bmw-car-png-19.png",
+                "https://www.freeiconspng.com/uploads/mercedes-car-png-22.png",
+                "https://www.freeiconspng.com/uploads/mercedes-car-png-16.png",
+                "https://pngimg.com/uploads/kia/small/kia_PNG36.png",
+                "https://pngimg.com/uploads/kia/kia_PNG27.png"
+            ]
         },
-        {
-            "id": 2,
-            "firstName": "Ahmed",
-            "lastName": "Ali",
-            "avatar": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YXZhdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "rate": "5.0",
-            "phoneNumber": "+9647712345678",
-            "country": "IQ",
-            "specialty": "General Surgery"
+        "first_name": {
+            "string": [
+                "Honda",
+                "KIA",
+                "Land Rover",
+                "Mercedes"
+            ]
         },
-        {
-            "id": 3,
-            "firstName": "Sadeq",
-            "lastName": "Salam",
-            "avatar": "https://images.unsplash.com/photo-1628890920690-9e29d0019b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGF2YXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-            "bio": "ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-            "rate": "4.1",
-            "phoneNumber": "+9647712345678",
-            "country": "IQ",
-            "specialty": "Hand Surgery"
+        "last_name": {
+            "string": [
+                "Falah Hassan",
+                "Bareq H.",
+                "Ahmed Mones",
+                "Asia Sama",
+                "Karrar Jasim",
+                "Taha Saad",
+                "Jinan Badir",
+                "Mohammed"
+            ]
         },
-        {
-            "id": 4,
-            "firstName": "Sadeq",
-            "lastName": "Salam",
-            "avatar": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXZhdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "bio": "ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-            "rate": "4.1",
-            "phoneNumber": "+9647712345678",
-            "country": "IQ",
-            "specialty": "Internal Medicine"
+        "country": {
+            "string": [
+                "Iraq"
+            ]
         },
-        {
-            "id": 5,
-            "firstName": "Sadeq",
-            "lastName": "Salam",
-            "bio": "ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-            "avatar": "",
-            "rate": "4.1",
-            "phoneNumber": "+9647712345678",
-            "country": "IQ",
-            "specialty": "Family Medicine"
+        "bio": {
+            "string": [
+                "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover (JLR), since 2008 a subsidiary of India's Tata Motors. JLR currently builds Land Rovers in Brazil, China, India, Slovakia, and the United Kingdom.",
+                "Mercedes-Benz AG produces consumer luxury vehicles and commercial vehicles badged as Mercedes-Benz. From November 2019 onwards, Mercedes-Benz-badged heavy commercial vehicles (trucks and buses) are managed by Daimler Truck, a former part of the Mercedes-Benz Group turned into an independent company in late 2021.",
+                "The Kia Rio represents cheap, simple transportation at its best. Fuel efficient and inexpensive but with a surprising amount of driving sophistication and features for the price, this subcompact provides good value for the money. It’s available as either a sedan or a hatchback, but neither body style has much space in the rear seat or cargo area. Apple CarPlay and Android Auto are standard equipment, and several driver-assistance features are optional. Now that many of its competitors—including the Chevy Sonic, Honda Fit, and Toyota Yaris—have left the marketplace, the Rio is one of the last truly cheap new cars left, and it’s good enough to earn a spot on our 2022 Editors' Choice list."
+            ]
         },
-        {
-            "id": 6,
-            "firstName": "Sara",
-            "lastName": "Al-Qaysi",
-            "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YXZhdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "bio": "ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-            "rate": "4.1",
-            "phoneNumber": "+9647712345678",
-            "country": "IQ",
-            "specialty": "Family Medicine"
+        "specialty": {
+            "string": [
+                "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover (JLR), since 2008 a subsidiary of India's Tata Motors. JLR currently builds Land Rovers in Brazil, China, India, Slovakia, and the United Kingdom.",
+                "Mercedes-Benz AG produces consumer luxury vehicles and commercial vehicles badged as Mercedes-Benz. From November 2019 onwards, Mercedes-Benz-badged heavy commercial vehicles (trucks and buses) are managed by Daimler Truck, a former part of the Mercedes-Benz Group turned into an independent company in late 2021.",
+                "The Kia Rio represents cheap, simple transportation at its best. Fuel efficient and inexpensive but with a surprising amount of driving sophistication and features for the price, this subcompact provides good value for the money. It’s available as either a sedan or a hatchback, but neither body style has much space in the rear seat or cargo area. Apple CarPlay and Android Auto are standard equipment, and several driver-assistance features are optional. Now that many of its competitors—including the Chevy Sonic, Honda Fit, and Toyota Yaris—have left the marketplace, the Rio is one of the last truly cheap new cars left, and it’s good enough to earn a spot on our 2022 Editors' Choice list."
+            ]
         },
-        {
-            "id": 7,
-            "firstName": "Sadeq",
-            "lastName": "Salam",
-            "avatar": "",
-            "bio": "ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-            "rate": "4.1",
-            "phoneNumber": "+9647712345678",
-            "country": "IQ",
-            "specialty": "Family Medicine"
+        "rate": {
+            "string": [
+                "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover (JLR), since 2008 a subsidiary of India's Tata Motors. JLR currently builds Land Rovers in Brazil, China, India, Slovakia, and the United Kingdom.",
+                "Mercedes-Benz AG produces consumer luxury vehicles and commercial vehicles badged as Mercedes-Benz. From November 2019 onwards, Mercedes-Benz-badged heavy commercial vehicles (trucks and buses) are managed by Daimler Truck, a former part of the Mercedes-Benz Group turned into an independent company in late 2021.",
+                "The Kia Rio represents cheap, simple transportation at its best. Fuel efficient and inexpensive but with a surprising amount of driving sophistication and features for the price, this subcompact provides good value for the money. It’s available as either a sedan or a hatchback, but neither body style has much space in the rear seat or cargo area. Apple CarPlay and Android Auto are standard equipment, and several driver-assistance features are optional. Now that many of its competitors—including the Chevy Sonic, Honda Fit, and Toyota Yaris—have left the marketplace, the Rio is one of the last truly cheap new cars left, and it’s good enough to earn a spot on our 2022 Editors' Choice list."
+            ]
         },
-        {
-            "id": 8,
-            "firstName": "Sadeq",
-            "lastName": "Salam",
-            "avatar": "",
-            "bio": "ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-            "rate": "4.1",
-            "phoneNumber": "+9647712345678",
-            "country": "IQ",
-            "specialty": "Family Medicine"
-        },
-        {
-            "id": 9,
-            "firstName": "Sadeq",
-            "lastName": "Salam",
-            "avatar": "",
-            "bio": "ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-            "rate": "4.1",
-            "phoneNumber": "+9647712345678",
-            "country": "IQ",
-            "specialty": "Family Medicine"
-        },
-        {
-            "id": 10,
-            "firstName": "Sadeq",
-            "lastName": "Salam",
-            "avatar": "",
-            "bio": "ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-            "rate": "4.1",
-            "phoneNumber": "+9647712345678",
-            "country": "IQ",
-            "specialty": "Family Medicine"
+        "phone_number": {
+            "string": [
+                "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover (JLR), since 2008 a subsidiary of India's Tata Motors. JLR currently builds Land Rovers in Brazil, China, India, Slovakia, and the United Kingdom.",
+                "Mercedes-Benz AG produces consumer luxury vehicles and commercial vehicles badged as Mercedes-Benz. From November 2019 onwards, Mercedes-Benz-badged heavy commercial vehicles (trucks and buses) are managed by Daimler Truck, a former part of the Mercedes-Benz Group turned into an independent company in late 2021.",
+                "The Kia Rio represents cheap, simple transportation at its best. Fuel efficient and inexpensive but with a surprising amount of driving sophistication and features for the price, this subcompact provides good value for the money. It’s available as either a sedan or a hatchback, but neither body style has much space in the rear seat or cargo area. Apple CarPlay and Android Auto are standard equipment, and several driver-assistance features are optional. Now that many of its competitors—including the Chevy Sonic, Honda Fit, and Toyota Yaris—have left the marketplace, the Rio is one of the last truly cheap new cars left, and it’s good enough to earn a spot on our 2022 Editors' Choice list."
+            ]
         }
-    ]
+    }
 }
