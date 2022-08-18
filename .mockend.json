@@ -1,33 +1,25 @@
 {
     "Doctor": {
         "avatar": {
-            "string": [
-                "https://www.freeiconspng.com/uploads/land-rover-range-rover-car-png-25.png",
-                "https://www.freeiconspng.com/uploads/black-cool-bmw-car-png-19.png",
-                "https://www.freeiconspng.com/uploads/mercedes-car-png-22.png",
-                "https://www.freeiconspng.com/uploads/mercedes-car-png-16.png",
-                "https://pngimg.com/uploads/kia/small/kia_PNG36.png",
-                "https://pngimg.com/uploads/kia/kia_PNG27.png"
-            ]
+            "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
         },
-        "first_name": {
+        "name": {
             "string": [
-                "Honda",
-                "KIA",
-                "Land Rover",
-                "Mercedes"
-            ]
-        },
-        "last_name": {
-            "string": [
-                "Falah Hassan",
-                "Bareq H.",
-                "Ahmed Mones",
-                "Asia Sama",
-                "Karrar Jasim",
-                "Taha Saad",
-                "Jinan Badir",
-                "Mohammed"
+                "Caleb Rahimi",
+                "Areeqa Salah",
+                "Lujayn Badie",
+                "Afya Allam",
+                "Kadar Tabet",
+                "Yusef Rehman",
+                "Fasiya Sadiq",
+                "Zaniah Arif",
+                "Bilal Pasha",
+                "Ziyad Salehi",
+                "Reshma Tariq",
+                "Iffah Pasha",
+                "Azeem Ramadan",
+                "Tasmeem Islam",
+                "Malik Shehata"
             ]
         },
         "country": {
@@ -36,11 +28,12 @@
             ]
         },
         "bio": {
-            "string": [
-                "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover (JLR), since 2008 a subsidiary of India's Tata Motors. JLR currently builds Land Rovers in Brazil, China, India, Slovakia, and the United Kingdom.",
-                "Mercedes-Benz AG produces consumer luxury vehicles and commercial vehicles badged as Mercedes-Benz. From November 2019 onwards, Mercedes-Benz-badged heavy commercial vehicles (trucks and buses) are managed by Daimler Truck, a former part of the Mercedes-Benz Group turned into an independent company in late 2021.",
-                "The Kia Rio represents cheap, simple transportation at its best. Fuel efficient and inexpensive but with a surprising amount of driving sophistication and features for the price, this subcompact provides good value for the money. It’s available as either a sedan or a hatchback, but neither body style has much space in the rear seat or cargo area. Apple CarPlay and Android Auto are standard equipment, and several driver-assistance features are optional. Now that many of its competitors—including the Chevy Sonic, Honda Fit, and Toyota Yaris—have left the marketplace, the Rio is one of the last truly cheap new cars left, and it’s good enough to earn a spot on our 2022 Editors' Choice list."
-            ]
+            "longDescription": {
+                "loremSentences": {
+                    "minLength": 100,
+                    "maxLength": 200
+                }
+            }
         },
         "specialty": {
             "string": [
@@ -51,17 +44,17 @@
         },
         "rate": {
             "string": [
-                "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover (JLR), since 2008 a subsidiary of India's Tata Motors. JLR currently builds Land Rovers in Brazil, China, India, Slovakia, and the United Kingdom.",
-                "Mercedes-Benz AG produces consumer luxury vehicles and commercial vehicles badged as Mercedes-Benz. From November 2019 onwards, Mercedes-Benz-badged heavy commercial vehicles (trucks and buses) are managed by Daimler Truck, a former part of the Mercedes-Benz Group turned into an independent company in late 2021.",
-                "The Kia Rio represents cheap, simple transportation at its best. Fuel efficient and inexpensive but with a surprising amount of driving sophistication and features for the price, this subcompact provides good value for the money. It’s available as either a sedan or a hatchback, but neither body style has much space in the rear seat or cargo area. Apple CarPlay and Android Auto are standard equipment, and several driver-assistance features are optional. Now that many of its competitors—including the Chevy Sonic, Honda Fit, and Toyota Yaris—have left the marketplace, the Rio is one of the last truly cheap new cars left, and it’s good enough to earn a spot on our 2022 Editors' Choice list."
+                "4.0",
+                "4.5",
+                "4.6",
+                "3.0",
+                "3.5",
+                "3.6",
+                "5.0",
+                "2.1",
+                "2.2"
             ]
         },
-        "phone_number": {
-            "string": [
-                "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover (JLR), since 2008 a subsidiary of India's Tata Motors. JLR currently builds Land Rovers in Brazil, China, India, Slovakia, and the United Kingdom.",
-                "Mercedes-Benz AG produces consumer luxury vehicles and commercial vehicles badged as Mercedes-Benz. From November 2019 onwards, Mercedes-Benz-badged heavy commercial vehicles (trucks and buses) are managed by Daimler Truck, a former part of the Mercedes-Benz Group turned into an independent company in late 2021.",
-                "The Kia Rio represents cheap, simple transportation at its best. Fuel efficient and inexpensive but with a surprising amount of driving sophistication and features for the price, this subcompact provides good value for the money. It’s available as either a sedan or a hatchback, but neither body style has much space in the rear seat or cargo area. Apple CarPlay and Android Auto are standard equipment, and several driver-assistance features are optional. Now that many of its competitors—including the Chevy Sonic, Honda Fit, and Toyota Yaris—have left the marketplace, the Rio is one of the last truly cheap new cars left, and it’s good enough to earn a spot on our 2022 Editors' Choice list."
-            ]
-        }
+        "phone_number": "+9647712345678"
     }
 }
