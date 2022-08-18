@@ -28,11 +28,9 @@
             ]
         },
         "bio": {
-            "longDescription": {
-                "loremSentences": {
-                    "minLength": 100,
-                    "maxLength": 200
-                }
+            "loremSentences": {
+                "minLength": 100,
+                "maxLength": 200
             }
         },
         "specialty": {
@@ -55,6 +53,8 @@
                 "2.2"
             ]
         },
-        "phone_number": "+9647712345678"
+        "phone_number": {
+            "string": "+9647712345678"
+        }
     }
 }
